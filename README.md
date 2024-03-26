@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Prediction😁
 
 This project aims to predict the likelihood of heart disease in patients based on various factors.
 
@@ -20,7 +20,7 @@ This project aims to predict the likelihood of heart disease in patients based o
 
 ## Installation
 
-git clone https://github.com/dev-jatin-mehra/heart-disease-prediction
+git clone [heart_disease_prediction](https://github.com/dev-jatin-mehra/heart_disease_prediction)
 
 ## Usage
 -You can take some real time data for the above factors and place the values int the input section as shown in the image.
@@ -41,7 +41,7 @@ git clone https://github.com/dev-jatin-mehra/heart-disease-prediction
 For all the above methods , you can reach out to me at:
 [Mail Me](dev.jatin.singh@gmail.com) or [LinkedIn](www.linkedin.com/in/jatinsinghmehra) .
 
-Thank you for contributing to the Heart Disease Prediction project!
+Thank you for contributing to the Heart Disease Prediction project!😊
 
 ##Acknowledgement
 -Siddhardhan
