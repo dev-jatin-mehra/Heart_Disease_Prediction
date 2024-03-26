@@ -25,7 +25,8 @@ git clone [heart_disease_prediction](https://github.com/dev-jatin-mehra/heart_di
 ## Usage
 -You can take some real time data for the above factors and place the values int the input section as shown in the image.
 -place the values according to the given structure(age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal){not including target}
-![image](https://github.com/dev-jatin-mehra/heart_disease_prediction/assets/149806613/b8bcb8f2-6d82-4f74-b384-5da1013e830c)
+![image](https://github.com/dev-jatin-mehra/heart_disease_prediction/assets/149806613/8a6c43dd-5721-4c37-8605-1ead98455556)
+
 
 
 ## Contributing
