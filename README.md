@@ -39,7 +39,7 @@ git clone [heart_disease_prediction](https://github.com/dev-jatin-mehra/heart_di
 ### Contributing Code
 
 For all the above methods , you can reach out to me at:
-[Mail Me](dev.jatin.singh@gmail.com) or [LinkedIn](www.linkedin.com/in/jatinsinghmehra) .
+Mail me at dev.jatin.singh@gmail.com or [LinkedIn](https://www.linkedin.com/in/jatinsinghmehra) .
 
 Thank you for contributing to the Heart Disease Prediction project!😊
 
