@@ -34,15 +34,12 @@ git clone https://github.com/dev-jatin-mehra/heart-disease-prediction.git
 
 ### Reporting Bugs
 
-If you encounter a bug while using the application, please [open an issue](https://github.com/dev-jatin-mehra/heart-disease-prediction/issues) on GitHub. Be sure to include a detailed description of the bug, including steps to reproduce it.
-
 ### Suggesting Improvements
-
-If you have ideas for improving the project, feel free to [open an issue](https://github.com/dev-jatin-mehra/heart-disease-prediction/issues) on GitHub to discuss your ideas. We welcome suggestions for new features, enhancements to existing features, or any other improvements you think would be valuable.
 
 ### Contributing Code
 
-If you'd like to contribute code to the project, please follow the steps outlined in the [Contributing](#contributing) section above. We appreciate all contributions, whether they are bug fixes, new features, or improvements to the project's codebase.
+For all the above methods , you can reach out to me at:
+[Mail Me](dev.jatin.singh@gmail.com) or [LinkedIn](www.linkedin.com/in/jatinsinghmehra) .
 
 Thank you for contributing to the Heart Disease Prediction project!
 
