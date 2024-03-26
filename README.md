@@ -43,6 +43,6 @@ For all the above methods , you can reach out to me at:
 
 Thank you for contributing to the Heart Disease Prediction project!😊
 
-##Acknowledgement
+### Acknowledgement
 -Siddhardhan
 
