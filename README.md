@@ -23,10 +23,29 @@ This project aims to predict the likelihood of heart disease in patients based o
 git clone https://github.com/dev-jatin-mehra/heart-disease-prediction.git
 
 ## Usage
-
+-You can take some real time data for the above factors and place the values int the input section as shown in the image.
+-place the values according to the given structure(age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal){not including target}
 ![image](https://github.com/dev-jatin-mehra/heart_disease_prediction/assets/149806613/b8bcb8f2-6d82-4f74-b384-5da1013e830c)
 
 
 ## Contributing
 
-Tell others how they can contribute to your project, such as by reporting bugs, suggesting improvements, or submitting pull requests.
+-We welcome contributions to the Heart Disease Prediction project in the following ways:
+
+### Reporting Bugs
+
+If you encounter a bug while using the application, please [open an issue](https://github.com/dev-jatin-mehra/heart-disease-prediction/issues) on GitHub. Be sure to include a detailed description of the bug, including steps to reproduce it.
+
+### Suggesting Improvements
+
+If you have ideas for improving the project, feel free to [open an issue](https://github.com/dev-jatin-mehra/heart-disease-prediction/issues) on GitHub to discuss your ideas. We welcome suggestions for new features, enhancements to existing features, or any other improvements you think would be valuable.
+
+### Contributing Code
+
+If you'd like to contribute code to the project, please follow the steps outlined in the [Contributing](#contributing) section above. We appreciate all contributions, whether they are bug fixes, new features, or improvements to the project's codebase.
+
+Thank you for contributing to the Heart Disease Prediction project!
+
+##Acknowledgement
+-Siddhardhan
+
