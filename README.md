@@ -34,7 +34,7 @@ To use this project, follow these steps:
 
 2. Once the Streamlit app is running, you will see a web interface where you can input the necessary data for heart disease prediction.
 
-3. Fill in the required information and click on the "Predict" button to get the prediction result.
+3. Fill in the required information and click on the button to get the prediction result.
 
 ## Contributing
 
