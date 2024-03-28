@@ -52,4 +52,4 @@ Thank you for contributing to the Heart Disease Prediction project! 😊
 
 ## Acknowledgement
 
-Special thanks to Siddhardhan for contributions to this project.
+Special thanks to Siddhardhan for this project.
