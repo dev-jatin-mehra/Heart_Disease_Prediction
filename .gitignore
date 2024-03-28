@@ -1,0 +1,9 @@
+venv/etc
+venv/Include
+venv/Lib
+venv/Scripts
+venv/share
+venv/pyvenv.cfg
+
+.vscode/
+.git/

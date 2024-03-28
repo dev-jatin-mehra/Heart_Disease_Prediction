@@ -1,53 +1,55 @@
-# Heart Disease Prediction😁
+# Heart Disease Prediction 😁
 
 This project aims to predict the likelihood of heart disease in patients based on various factors.
 
-## DataSet :
+## DataSet
 
-Kaggle 
-
-## Factors
-
-- **Age**: Age of the patient
-- **Sex**: Gender of the patient (0 = female, 1 = male)
-- **CP**: Chest pain type (1 = typical angina, 2 = atypical angina, 3 = non-anginal pain, 4 = asymptomatic)
-- **Trestbps**: Resting blood pressure (in mm Hg)
-- **Chol**: Serum cholesterol (in mg/dl)
-- **Fbs**: Fasting blood sugar > 120 mg/dl (1 = true, 0 = false)
-- **Restecg**: Resting electrocardiographic results (0 = normal, 1 = having ST-T wave abnormality, 2 = showing probable or definite left ventricular hypertrophy)
-- **Thalach**: Maximum heart rate achieved
-- **Exang**: Exercise induced angina (1 = yes, 0 = no)
-- **Oldpeak**: ST depression induced by exercise relative to rest
-- **Slope**: The slope of the peak exercise ST segment (1 = upsloping, 2 = flat, 3 = downsloping)
-- **Ca**: Number of major vessels (0-3) colored by fluoroscopy
-- **Thal**: Thalassemia (3 = normal; 6 = fixed defect; 7 = reversible defect)
+The dataset used for this project can be found on [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
 ## Installation
 
-git clone [heart_disease_prediction](https://github.com/dev-jatin-mehra/heart_disease_prediction)
+To use this project, follow these steps:
+
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/dev-jatin-mehra/heart_disease_prediction.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```sh
+    cd heart_disease_prediction
+    ```
+
+3. **Install the required dependencies:**
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 ## Usage
--You can take some real time data for the above factors and place the values int the input section as shown in the image.
--place the values according to the given structure(age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal){not including target}
-![image](https://github.com/dev-jatin-mehra/heart_disease_prediction/assets/149806613/8a6c43dd-5721-4c37-8605-1ead98455556)
 
+1. **Run the prediction system:**
+    ```sh
+    streamlit run predictionsystem.py
+    ```
 
+2. Once the Streamlit app is running, you will see a web interface where you can input the necessary data for heart disease prediction.
+
+3. Fill in the required information and click on the "Predict" button to get the prediction result.
 
 ## Contributing
 
--We welcome contributions to the Heart Disease Prediction project in the following ways:
+We welcome contributions to the Heart Disease Prediction project in the following ways:
 
-### Reporting Bugs
+- Reporting Bugs
+- Suggesting Improvements
+- Contributing Code
 
-### Suggesting Improvements
+For all the above methods, you can reach out to me at:
+- Email: dev.jatin.singh@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jatinsinghmehra)
 
-### Contributing Code
+Thank you for contributing to the Heart Disease Prediction project! 😊
 
-For all the above methods , you can reach out to me at:
-Mail me at dev.jatin.singh@gmail.com or [LinkedIn](https://www.linkedin.com/in/jatinsinghmehra) .
+## Acknowledgement
 
-Thank you for contributing to the Heart Disease Prediction project!😊
-
-### Acknowledgement
--Siddhardhan
-
+Special thanks to Siddhardhan for contributions to this project.
