@@ -29,7 +29,7 @@ To use this project, follow these steps:
 
 1. **Run the prediction system:**
     ```sh
-    streamlit run predictionsystem.py
+    streamlit run model.py
     ```
 
 2. Once the Streamlit app is running, you will see a web interface where you can input the necessary data for heart disease prediction.
@@ -52,4 +52,4 @@ Thank you for contributing to the Heart Disease Prediction project! 😊
 
 ## Acknowledgement
 
-Special thanks to Siddhardhan for contributions to this project.
+Special thanks to Siddhardhan for this project.
