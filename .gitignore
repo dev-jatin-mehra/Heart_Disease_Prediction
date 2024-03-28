@@ -4,6 +4,6 @@ venv/Lib
 venv/Scripts
 venv/share
 venv/pyvenv.cfg
-
+venv
 .vscode/
 .git/
