@@ -22,7 +22,9 @@ loaded_model = pickle.load(open('./trained_model.sav','rb'))
 
 def heart_prediction(input_data):
 
-    input_numpy=np.asarray(input_data)
+    input_data_numeric = [float(value) for value in input_data]
+
+    input_numpy=np.asarray(input_data_numeric)
     
     #predicting for one instance
     input_data_reshape=input_numpy.reshape(1,-1)
