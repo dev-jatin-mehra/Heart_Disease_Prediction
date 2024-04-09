@@ -34,7 +34,7 @@ def heart_prediction(input_data):
     if(prediction[0]==0):
         return 'Congratulations ! You are free from heart disease !'
     else:
-        return 'I would prefer you should consult your doctor !'
+        return 'I would prefer you  should consult your doctor !'
     
 def main():
     
