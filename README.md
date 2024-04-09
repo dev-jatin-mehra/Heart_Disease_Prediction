@@ -1,6 +1,7 @@
 # Heart Disease Prediction 😁
 
 This project aims to predict the likelihood of heart disease in patients based on various factors.
+[Live](https://heart-disease-prediction-project.streamlit.app/)
 
 ## DataSet
 
