@@ -14,7 +14,7 @@ This is a temporary script file.
 
 import numpy as np
 import pickle
-loaded_model = pickle.load(open('E:/Heart_Disease_prediction/trained_model.sav','rb'))
+loaded_model = pickle.load(open('./trained_model.sav','rb'))
 
 input = (58,1,0,146,218,0,1,105,0,2,1,1,3)
 
