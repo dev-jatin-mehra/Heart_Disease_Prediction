@@ -22,19 +22,23 @@ loaded_model = pickle.load(open('./trained_model.sav','rb'))
 
 def heart_prediction(input_data):
 
-    input_data_numeric = [float(value) for value in input_data]
-
-    input_numpy=np.asarray(input_data_numeric)
-    
-    #predicting for one instance
-    input_data_reshape=input_numpy.reshape(1,-1)
-
-    prediction = loaded_model.predict(input_data_reshape)
-
-    if(prediction[0]==0):
-        return 'Congratulations ! You are free from heart disease !'
-    else:
-        return 'I would prefer you  should consult your doctor !'
+    try:
+        input_data_numeric = [float(value) for value in input_data]
+        input_numpy = np.asarray(input_data_numeric)
+        
+        # Reshape the input data for prediction
+        input_data_reshape = input_numpy.reshape(1, -1)
+        
+        # Make the prediction
+        prediction = loaded_model.predict(input_data_reshape)
+        
+        # Return prediction result
+        if prediction[0] == 0:
+            return 'The person is not diabetic!'
+        else:
+            return 'The person is diabetic!'
+    except ValueError:
+        return "Invalid input. Please provide numerical/floating values for all fields."
     
 def main():
     
@@ -43,7 +47,7 @@ def main():
     
     #getiing input data from user 
     
-    age = st.text_input('Enter the age of person')
+    age = (st.text_input('Enter the age of person'))
     sex = st.text_input('Enter the gender')
     cp = st.text_input('Cp value')
     trestbps = st.text_input('trestbps value')
