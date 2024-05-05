@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 28 21:37:02 2024
-
-@author: jatin
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 28 20:44:08 2024
-
-@author: jatin
-"""
-
 import numpy as np
 import pickle
 import streamlit as st
